@@ -32,3 +32,5 @@ function runClock() {
 
 createDials();
 runClock();
+
+// live demo at : https://codepen.io/PankajPanday/pen/KKEpWdJ
